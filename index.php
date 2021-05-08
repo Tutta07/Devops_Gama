@@ -44,7 +44,7 @@
                     </div>
                     <div class="col-lg-8 align-self-baseline">
                         <p class="text-white-75 font-weight-light mb-5">Start Bootstrap can help you build better websites using the Bootstrap framework! Just download a theme and start customizing, no strings attached!</p>
-                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="https://api.whatsapp.com/send?phone=5521996430239&text=Ola%20voce%20se%20tem%20interesse%20em%20comprar%20o%20meu%20produto%2C%20entre%20em%20contato.">Find Out More</a>
                     </div>
                 </div>
             </div>
